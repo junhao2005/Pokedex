@@ -1,0 +1,60 @@
+
+        body {
+    background-image: url(./imageindex/kanto-map.jpeg);
+    background-size: cover;
+    
+}
+
+
+.titulo {
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 500%;
+  text-align: center;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+
+
+.texto {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+  }
+
+  .titulopokemon {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 35px;
+  }
+  
+
+.texto2{
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  }
+  
+
+
+.texto3{
+  font-size: 18px;
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.text4{
+  font-style: normal;
+    text-align: center;
+    font-size: 30px;
+}
